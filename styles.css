@@ -21,3 +21,8 @@ body {
 .funParagraph {
     color: green
 }
+
+img {
+    width: 50%;
+    height: 50%;
+}
