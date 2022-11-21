@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+
+p {
+    color: black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+body {
+    background-color: aquamarine;
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red
+}
+
+.funParagraph {
+    color: green
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
